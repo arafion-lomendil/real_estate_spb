@@ -200,7 +200,7 @@
 
 1. Клонировать репозиторий:
 ```bash
-   git clone [<ссылка на репозиторий>](https://github.com/arafion-lomendil/real_estate_spb)
+   git clone https://github.com/arafion-lomendil/real_estate_spb
 ```
 2. Выполнить запросы из `data_overview.sql` и `spb_ad_hoc.sql`
    на базе данных со схемой `real_estate`.
